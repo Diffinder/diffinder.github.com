@@ -286,7 +286,7 @@ a:hover, a:focus {
   display:block;
   height:40px;
   width:40px;
-  background:rgba(155,155,155,0.5);
+  background:#12B4F3;
   color:#fff;
   padding:8px 6px;
   text-decoration:none;
@@ -318,7 +318,8 @@ a:hover, a:focus {
   width:130px;
   float:left;
   text-align:center;
-  background:rgba(155,155,155,0.5);
+  background:#6CD0F7;
+  font-weight: 700;
   color:#fff;
   margin:-38px 30px;
   padding:8px 6px;
